@@ -1,4 +1,6 @@
 @import "../vendor/normalize.css";
+@import "../fonts/pt_sans/pt_sans.css";
+@import "../fonts/lato/lato.css";
 @import "../blocks/list/list.css";
 
 @import "../blocks/page/page.css";
@@ -6,3 +8,8 @@
 @import "../blocks/header/header.css";
 @import "../blocks/header/__title/header__title.css";
 @import "../blocks/header/__title-accent/header__title-accent.css";
+
+@import "../blocks/menu/menu.css";
+@import "../blocks/menu/__links/menu__links.css";
+@import "../blocks/menu/__item/menu__item.css";
+@import "../blocks/menu/__link/menu__link.css";
