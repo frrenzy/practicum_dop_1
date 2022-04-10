@@ -1,0 +1,16 @@
+.cards__item_position_1 {
+  height: 560px;
+  background-image: url(../../../../images/cards/cards_1.png);
+  grid-area: first;
+}
+
+.cards__item_position_1 .cards__title {
+  font-size: 26px;
+  line-height: 36px;
+  width: 90%;
+  margin-bottom: 23px;
+}
+
+.cards__item_position_1 .cards__text-container {
+  height: 188px;
+}

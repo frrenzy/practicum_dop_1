@@ -16,12 +16,18 @@
 
 @import "../blocks/content/content.css";
 
-@import "../blocks/recent/recent.css";
-@import "../blocks/recent/__card/recent__card.css";
-@import "../blocks/recent/__card/_posisition/recent__card_position_1.css";
-@import "../blocks/recent/__card/_posisition/recent__card_position_2.css";
-@import "../blocks/recent/__card/_posisition/recent__card_position_3.css";
-@import "../blocks/recent/__card/_posisition/recent__card_position_4.css";
-@import "../blocks/recent/__card/_posisition/recent__card_position_5.css";
-@import "../blocks/recent/__author/recent__author.css";
-@import "../blocks/recent/__title/recent__title.css";
+@import "../blocks/cards/cards.css";
+@import "../blocks/cards/__item/cards__item.css";
+@import "../blocks/cards/__item/_posisition/cards__item_position_1.css";
+@import "../blocks/cards/__item/_posisition/cards__item_position_2.css";
+@import "../blocks/cards/__item/_posisition/cards__item_position_3.css";
+@import "../blocks/cards/__item/_posisition/cards__item_position_4.css";
+@import "../blocks/cards/__item/_posisition/cards__item_position_5.css";
+@import "../blocks/cards/__text-container/cards__text-container.css";
+@import "../blocks/cards/__author/recent__author.css";
+@import "../blocks/cards/__title/cards__title.css";
+
+@import "../blocks/mark/mark.css";
+@import "../blocks/mark/__text/mark__text.css";
+@import "../blocks/mark/_position/mark_position_cards.css";
+@import "../blocks/mark/_position/mark_position_article.css";

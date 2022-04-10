@@ -1,9 +1,9 @@
-.recent__title {
+.cards__title {
   font-weight: bold;
   text-align: left;
   font-size: 20px;
   line-height: 30px;
   width: 265px;
-  margin: 0;
-  padding: 0;
+  margin: 6px 0 30px 20px;
+  box-sizing: border-box;
 }

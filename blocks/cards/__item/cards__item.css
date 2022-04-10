@@ -1,4 +1,4 @@
-.recent__card {
+.cards__item {
   box-sizing: border-box;
   width: 370px;
   height: 265px;
@@ -6,8 +6,8 @@
   flex-direction: column;
   justify-content: end;
   text-decoration: none;
-  padding-left: 20px;
-  padding-bottom: 23px;
   color: #fff;
   position: relative;
+  border-radius: 5px;
+  overflow: hidden;
 }

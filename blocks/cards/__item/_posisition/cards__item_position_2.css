@@ -1,0 +1,8 @@
+.cards__item_position_2 {
+  background-image: url(../../../../images/cards/cards_2.png);
+  grid-area: second;
+}
+
+.cards__item_position_2 .cards__title {
+  margin-bottom: 23px;
+}

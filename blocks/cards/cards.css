@@ -1,4 +1,4 @@
-.recent {
+.cards {
   display: grid;
   grid-template-columns: repeat(3, 370px);
   grid-template-rows: repeat(2, 265px);
