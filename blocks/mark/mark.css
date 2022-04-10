@@ -4,6 +4,5 @@
   background-color: #4A90E2;
   display: flex;
   border-radius: 3px;
-  position: absolute;
-  top: 30px;
+  color: #fff;
 }

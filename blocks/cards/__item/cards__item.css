@@ -4,10 +4,9 @@
   height: 265px;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: space-between;
   text-decoration: none;
   color: #fff;
-  position: relative;
   border-radius: 5px;
   overflow: hidden;
 }

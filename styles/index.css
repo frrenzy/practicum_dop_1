@@ -6,6 +6,7 @@
 @import "../blocks/page/page.css";
 
 @import "../blocks/header/header.css";
+@import "../blocks/header/__container/header__container.css";
 @import "../blocks/header/__title/header__title.css";
 @import "../blocks/header/__title-accent/header__title-accent.css";
 
@@ -31,3 +32,11 @@
 @import "../blocks/mark/__text/mark__text.css";
 @import "../blocks/mark/_position/mark_position_cards.css";
 @import "../blocks/mark/_position/mark_position_article.css";
+
+@import "../blocks/articles/articles.css";
+@import "../blocks/article/article.css";
+@import "../blocks/article/__cover/article__cover.css";
+@import "../blocks/article/__container/article__container.css";
+@import "../blocks/article/__title/article__title.css";
+@import "../blocks/article/__author/article__author.css";
+@import "../blocks/article/__text/article__text.css";

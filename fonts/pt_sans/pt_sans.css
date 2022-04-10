@@ -8,6 +8,13 @@
 @font-face {
   font-family: "PT Sans";
   font-style: normal;
-  src: url("/fonts/pt_sans/PTSans-bold.ttf");
+  src: url("/fonts/pt_sans/PTSans-Bold.ttf");
   font-weight: bold;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  font-style: italic;
+  src: url("/fonts/pt_sans/PTSans-Italic.ttf");
+  font-weight: normal;
 }
