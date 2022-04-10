@@ -1,0 +1,8 @@
+.recent {
+  display: grid;
+  grid-template-columns: repeat(3, 370px);
+  grid-template-rows: repeat(2, 265px);
+  grid-template-areas: "first second third"
+                       "first fourth fifth";
+  gap: 30px;
+}

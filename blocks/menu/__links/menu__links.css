@@ -1,4 +1,7 @@
 .menu__links {
   display: flex;
   justify-content: space-between;
+  min-width: 368px;
+  margin: 0;
+  padding: 0;
 }
