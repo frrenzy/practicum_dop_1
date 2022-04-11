@@ -1,0 +1,15 @@
+.number-box {
+  display: flex;
+  width: 40px;
+  height: 40px;
+  border: 1px solid #e5e5e5;
+  box-sizing: border-box;
+  border-radius: 3px;
+  color: #171717;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 16px;
+}
