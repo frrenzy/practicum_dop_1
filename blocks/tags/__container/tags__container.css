@@ -1,0 +1,7 @@
+.tags__container {
+  display: flex;
+  gap: 10px;
+  flex-flow: row wrap;
+  margin: 0;
+  padding: 0;
+}

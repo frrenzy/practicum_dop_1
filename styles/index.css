@@ -70,3 +70,8 @@
 @import "../blocks/instagram/__link/instagram__link.css";
 @import "../blocks/instagram/__logo/instagram__logo.css";
 @import "../blocks/instagram/__link-text/instagram__link-text.css";
+
+@import "../blocks/tags/tags.css";
+@import "../blocks/tags/__container/tags__container.css";
+@import "../blocks/tag/tag.css";
+@import "../blocks/tag/__text/tag__text.css";

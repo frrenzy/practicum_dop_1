@@ -1,0 +1,6 @@
+.tag {
+  display: flex;
+  border-radius: 3px;
+  padding: 7px 16px 5px;
+  background-color: #ebebeb;
+}
