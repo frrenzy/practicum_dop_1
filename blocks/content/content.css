@@ -1,3 +1,8 @@
 .content {
   padding: 30px 375px 41px 375px;
+  display: grid;
+  grid-template-columns: 800px 370px;
+  grid-template-rows: 560px 4370px;
+  grid-template-areas: "cards cards"
+                       "articles sidebar";
 }

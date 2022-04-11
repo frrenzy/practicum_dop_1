@@ -1,0 +1,9 @@
+.highlighted__post {
+  color: #666;
+  font-size: 15px;
+  font-weight: normal;
+  line-height: 25px;
+  margin: 0 0 21px 0;
+  text-overflow: ellipsis;
+  height: 75px;
+}

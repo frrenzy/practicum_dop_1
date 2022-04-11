@@ -46,3 +46,19 @@
 @import "../blocks/number-box/__content/number-box__content.css";
 @import "../blocks/number-box/_selected/number-box_selected.css";
 @import "../blocks/number-box/_disabled/number-box_disabled.css";
+
+@import "../blocks/sidebar/sidebar.css";
+@import "../blocks/highlighted/highlighted.css";
+@import "../blocks/highlighted/__post-pic/highlighted__post-pic.css";
+@import "../blocks/highlighted/__title/highlighted__title.css";
+@import "../blocks/highlighted/__author/highlighted__author.css";
+@import "../blocks/highlighted/__post/highlighted__post.css";
+@import "../blocks/highlighted/__link-container/highlighted__link-container.css";
+@import "../blocks/highlighted/__link/highlighted__link.css";
+
+@import "../blocks/popular/popular.css";
+@import "../blocks/sidebar-post/sidebar-post.css";
+@import "../blocks/sidebar-post/__post-pic/sidebar-post__post-pic.css";
+@import "../blocks/sidebar-post/__title/sidebar-post__title.css";
+@import "../blocks/sidebar-post/__subtitle/sidebar-post__subtitle.css";
+@import "../blocks/mark/_position/mark_position_sidebar.css";

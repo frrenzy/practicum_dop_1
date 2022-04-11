@@ -5,4 +5,5 @@
   grid-template-areas: "first second third"
                        "first fourth fifth";
   gap: 30px;
+  grid-area: cards;
 }
