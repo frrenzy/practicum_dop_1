@@ -75,3 +75,10 @@
 @import "../blocks/tags/__container/tags__container.css";
 @import "../blocks/tag/tag.css";
 @import "../blocks/tag/__text/tag__text.css";
+
+@import "../blocks/sidebar-title/_offset/sidebar-title_offset.css";
+@import "../blocks/email/email.css";
+@import "../blocks/email/__label/email__label.css";
+@import "../blocks/email/__form/email__form.css";
+@import "../blocks/email/__input/email__input.css";
+@import "../blocks/email/__submit/email__submit.css";
