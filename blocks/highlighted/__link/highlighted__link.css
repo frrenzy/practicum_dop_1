@@ -1,7 +1,9 @@
 .highlighted__link {
-  margin: auto;
-  font-size: 14px;
-  font-weight: bold;
-  line-height: 18px;
-  color: #fff;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  min-height: 50px;
+  background-color: #232323;
+  border-radius: 5px;
+  text-decoration: none;
 }
