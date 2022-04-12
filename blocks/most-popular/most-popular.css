@@ -1,6 +1,6 @@
 .most_popular {
   margin: 0;
-  padding: 80px 0 0;
+  padding: 80px 0;
   width: 1170px;
   grid-area: most-popular;
 }

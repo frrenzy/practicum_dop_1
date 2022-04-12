@@ -2,6 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Premium Car Blog</title>
   <link rel="stylesheet" href="./styles/index.css">
 </head>
@@ -9,9 +12,9 @@
 
   <header class="header">
     <div class="header__container">
-      <h1 class="header__title">
+      <h1 class="page__title">
         Premium&nbsp;
-        <span class="header__title-accent">car</span>
+        <span class="page__title-accent">car</span>
       </h1>
       <nav class="menu">
         <ul class="menu__links list">
@@ -180,6 +183,9 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
+          <div class="mark mark_position_popular">
+            <span class="mark__text">BMW</span>
+          </div>
         </div>
 
         <div class="popular-post">
@@ -189,6 +195,9 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
+          <div class="mark mark_position_popular">
+            <span class="mark__text">BMW</span>
+          </div>
         </div>
 
         <div class="popular-post">
@@ -198,6 +207,9 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
+          <div class="mark mark_position_popular">
+            <span class="mark__text">BMW</span>
+          </div>
         </div>
 
         <div class="popular-post">
@@ -207,6 +219,9 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
+          <div class="mark mark_position_popular">
+            <span class="mark__text">BMW</span>
+          </div>
         </div>
       </div>
 
@@ -240,7 +255,7 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
-          <div class="mark mark_position_sidebar">
+          <div class="mark mark_position_popular">
             <span class="mark__text">Vehicle</span>
           </div>
         </div>
@@ -252,7 +267,7 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
-          <div class="mark mark_position_sidebar">
+          <div class="mark mark_position_popular">
             <span class="mark__text">Vehicle</span>
           </div>
         </div>
@@ -264,7 +279,7 @@
           >
           <h3 class="popular-post__title">One of Saturn’s largest rings may be newer than anyone</h3>
           <p class="popular-post__subtitle">Rickie Baroch - June 6, 2019</p>
-          <div class="mark mark_position_sidebar">
+          <div class="mark mark_position_popular">
             <span class="mark__text">Vehicle</span>
           </div>
         </div>
@@ -337,6 +352,87 @@
 
   </main>
 
-  <footer class="footer"></footer>
+  <footer class="footer">
+    <div class="footer__columns">
+
+      <div class="footer__column footer__column_content_info">
+        <h2 class="page__title">
+          Premium&nbsp;
+          <span class="page__title-accent">car</span>
+        </h2>
+        <p class="footer__info">
+          Short description about the company Lorem Ipsum is simply dummy text of the printing and
+          typesetting industry.
+        </p>
+
+        <div class="footer__social">
+          <h2 class="footer__column-title">Keep in touch</h2>
+
+          <div class="footer__social-links">
+            <a href="#" class="footer__social-link">
+              <img src="./images/social/facebook.svg" alt="Facebook logo" class="footer__social-icon">
+            </a>
+            <a href="#" class="footer__social-link">
+              <img src="./images/social/twitter.svg" alt="Twitter logo" class="footer__social-icon">
+            </a>
+            <a href="#" class="footer__social-link">
+              <img src="./images/social/pinterest.svg" alt="Pinterest logo" class="footer__social-icon">
+            </a>
+            <a href="#" class="footer__social-link">
+              <img src="./images/social/g_plus.svg" alt="Google Plus logo" class="footer__social-icon">
+            </a>
+            <a href="#" class="footer__social-link">
+              <img src="./images/social/insta.svg" alt="Instagram logo" class="footer__social-icon">
+            </a>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="footer__column footer__column_content_recent">
+        <h2 class="footer__column-title">Recent posts</h2>
+
+        <div class="footer__recent-post">
+          <img src="./images/recent/recent_1.png"
+               alt="Yellow car in front of a building"
+               class="footer__recent-pic"
+          >
+          <div class="footer__recent-text">
+            <h3 class="footer__recent-title">One of Saturn’s largest rings may be newer than…</h3>
+            <p class="footer__recent-author">Rickie Baroch - June 6, 2019</p>
+          </div>
+        </div>
+
+        <div class="footer__recent-post">
+          <img src="./images/recent/recent_2.png"
+               alt="White car"
+               class="footer__recent-pic"
+          >
+          <div class="footer__recent-text">
+            <h3 class="footer__recent-title">One of Saturn’s largest rings may be newer than…</h3>
+            <p class="footer__recent-author">Rickie Baroch - June 6, 2019</p>
+          </div>
+        </div>
+
+        <div class="footer__recent-post">
+          <img src="./images/recent/recent_3.png"
+               alt="Red car close-up"
+               class="footer__recent-pic"
+          >
+          <div class="footer__recent-text">
+            <h3 class="footer__recent-title">One of Saturn’s largest rings may be newer than…</h3>
+            <p class="footer__recent-author">Rickie Baroch - June 6, 2019</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="email email_position_footer"></div>
+    </div>
+
+    <div class="footer__bottom">
+
+    </div>
+  </footer>
+
 </body>
 </html>

@@ -1,8 +1,8 @@
 .content {
-  padding: 30px 375px 41px 375px;
+  padding: 30px 375px 0;
   display: grid;
   grid-template-columns: 800px 370px;
-  grid-template-rows: 560px 1fr 1fr;
+  grid-template-rows: 560px 1fr 538px;
   grid-template-areas: "cards cards"
                        "articles sidebar"
                        "most-popular most-popular";

@@ -7,8 +7,8 @@
 
 @import "../blocks/header/header.css";
 @import "../blocks/header/__container/header__container.css";
-@import "../blocks/header/__title/header__title.css";
-@import "../blocks/header/__title-accent/header__title-accent.css";
+@import "../blocks/page/__title/page__title.css";
+@import "../blocks/page/__title-accent/page__title-accent.css";
 
 @import "../blocks/menu/menu.css";
 @import "../blocks/menu/__links/menu__links.css";
@@ -62,7 +62,7 @@
 @import "../blocks/popular-post/__post-pic/popular-post__post-pic.css";
 @import "../blocks/popular-post/__title/popular-post__title.css";
 @import "../blocks/popular-post/__subtitle/popular-post__subtitle.css";
-@import "../blocks/mark/_position/mark_position_sidebar.css";
+@import "../blocks/mark/_position/mark_position_popular.css";
 
 @import "../blocks/instagram/instagram.css";
 @import "../blocks/instagram/__container/instagram__container.css";
@@ -86,3 +86,22 @@
 @import "../blocks/most-popular/most-popular.css";
 @import "../blocks/most-popular/__title/most-popular__title.css";
 @import "../blocks/popular/_position/popular_position_content.css";
+
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__columns/footer__columns.css";
+@import "../blocks/footer/__column/footer__column.css";
+
+@import "../blocks/footer/__column/_content/footer__column_content_info.css";
+@import "../blocks/footer/__info/footer__info.css";
+@import "../blocks/footer/__social/footer__social.css";
+@import "../blocks/footer/__column-title/footer__column-title.css";
+@import "../blocks/footer/__social-links/footer__social-links.css";
+@import "../blocks/footer/__social-link/footer__social-link.css";
+
+@import "../blocks/footer/__column/_content/footer__column_content_recent.css";
+@import "../blocks/footer/__recent-post/footer__recent-post.css";
+@import "../blocks/footer/__recent-post/footer__recent-post.css";
+@import "../blocks/footer/__recent-pic/footer__recent-pic.css";
+@import "../blocks/footer/__recent-text/footer__recent-text.css";
+@import "../blocks/footer/__recent-title/footer__recent-title.css";
+@import "../blocks/footer/__recent-author/footer__recent-author.css";
