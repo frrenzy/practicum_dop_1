@@ -1,0 +1,7 @@
+.footer__bottom {
+  padding: 0 375px;
+  margin: 0;
+  display: flex;
+  background-color: #000;
+  min-height: 94px;
+}

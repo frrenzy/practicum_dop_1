@@ -107,3 +107,7 @@
 @import "../blocks/footer/__recent-author/footer__recent-author.css";
 
 @import "../blocks/email/__input/_dark/email__input_dark.css";
+
+@import "../blocks/footer/__bottom/footer__bottom.css";
+@import "../blocks/footer/__bottom-container/footer__bottom-container.css";
+@import "../blocks/footer/__copyright/footer__copyright.css";
