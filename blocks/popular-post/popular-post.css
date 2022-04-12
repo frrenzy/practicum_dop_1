@@ -1,9 +1,10 @@
-.sidebar-post {
+.popular-post {
   position: relative;
+  width: 270px;
   margin: 0;
   padding: 0 0 39px 0;
 }
 
-.sidebar-post:last-of-type {
+.popular-post:last-of-type {
   padding: 0;
 }

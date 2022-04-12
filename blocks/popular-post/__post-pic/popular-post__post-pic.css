@@ -1,6 +1,8 @@
-.sidebar-post__post-pic {
+.popular-post__post-pic {
   object-fit: contain;
   width: 270px;
   height: 195px;
   border-radius: 5px;
+  margin: 0;
+  padding: 0;
 }

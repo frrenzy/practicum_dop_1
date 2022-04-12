@@ -1,0 +1,5 @@
+.popular_position_content {
+  display: flex;
+  gap: 30px;
+  width: 1170px;
+}
