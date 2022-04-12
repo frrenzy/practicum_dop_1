@@ -105,3 +105,5 @@
 @import "../blocks/footer/__recent-text/footer__recent-text.css";
 @import "../blocks/footer/__recent-title/footer__recent-title.css";
 @import "../blocks/footer/__recent-author/footer__recent-author.css";
+
+@import "../blocks/email/__input/_dark/email__input_dark.css";
